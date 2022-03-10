@@ -1,0 +1,42 @@
+{
+  "services": [
+    {
+      "id": 2,
+      "title": "Second",
+      "description": "It's second service",
+      "country": "Ukraine",
+      "city": "Lviv",
+      "address": "Ploshcha Rynok 11",
+      "type": "Rent",
+      "transport": "2, 3, 50",
+      "recomandation": "Good to live in)",
+      "price": 28000
+    },
+    {
+      "title": "fdsfasdf",
+      "description": "dsfsd",
+      "country": "fsdfsd",
+      "city": "fsdf",
+      "address": "fds",
+      "type": "Rent",
+      "image": "file:///data/user/0/host.exp.exponent/cache/ExperienceData/%2540anonymos%252Frieltor-front-888a7d42-0e4f-4b57-95bf-45e8f4168495/ImagePicker/a20d3e96-97e8-4582-8052-af3f95f233d0.jpg",
+      "transport": "fdsf",
+      "recomandation": "fdsf",
+      "price": "100",
+      "id": 4
+    },
+    {
+      "title": "Tdewr",
+      "description": "rwerwerwe",
+      "country": "ukr",
+      "city": "lviv",
+      "address": "rwerwe",
+      "type": "Rent",
+      "image": "file:///data/user/0/host.exp.exponent/cache/ExperienceData/%2540anonymous%252Frieltor-front-888a7d42-0e4f-4b57-95bf-45e8f4168495/ImagePicker/a6e88265-9b12-4dd4-b1a6-f4c216af20e7.jpg",
+      "transport": "eewrweqr",
+      "recomandation": "rwerwerwe\n",
+      "price": "23423",
+      "id": 5
+    }
+  ]
+}

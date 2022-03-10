@@ -1,0 +1,12 @@
+{
+  "name": "rieltor-front",
+  "displayName": "rieltor-front",
+  "expo": {
+    "name": "rieltor-front",
+    "slug": "rieltor-front",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
